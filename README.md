@@ -8,9 +8,13 @@ Run the users.sql file to create users table.
 
 set the configuration in config.json file.
 
-## Start the application
+## Start The Application
 
 node service.js
+
+## Run Test
+
+npm test
 
 ## Folder Structure
 
